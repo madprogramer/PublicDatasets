@@ -1,0 +1,23 @@
+Venue;Title;DOI
+MIDL 2018;Recurrent Inference Machines for Accelerated MRI Reconstruction ;n/a
+MIDL 2018;Uncertainty quantification using Bayesian neural networks in classification: Application to ischemic stroke lesion segmentation;https://doi.org/10.1016/j.csda.2019.106816
+MIDL 2018;Automated Segmentation of Knee Bone and Cartilage combining Statistical Shape Knowledge and Convolutional Neural Networks: Data from the Osteoarthritis Initiative;https://doi.org/10.1016/j.media.2018.11.009
+MIDL 2018;"Robust training of recurrent neural networks to handle missing data for disease progression modeling
+";https://doi.org/10.48550/arXiv.1808.05500
+MIDL 2018;Evaluating Reinforcement Learning Agents for Anatomical Landmark Detection;https://doi.org/10.1016/j.media.2019.02.007
+MIDL 2018;Convolutional neural networks for mesh-based parcellation of the cerebral cortex ;n/a
+MIDL 2018;MILD-Net: Minimal information loss dilated network for gland instance segmentation in colon histology images;https://doi.org/10.1016/j.media.2018.12.001
+MIDL 2018;Temporal Interpolation via Motion Field Prediction;https://doi.org/10.48550/arXiv.1804.04440
+MIDL 2018;Attention U-Net: Learning Where to Look for the Pancreas;https://doi.org/10.48550/arXiv.1804.03999
+MIDL 2018;Regularized siamese neural network for unsupervised outlier detection on brain multiparametric magnetic resonance imaging: Application to epilepsy lesion screening;https://doi.org/10.1016/j.media.2019.101618
+MIDL 2018;Capsules for Object Segmentation;https://doi.org/10.48550/arXiv.1804.04241
+MIDL 2018;OBELISK - One Kernel to Solve Nearly Everything: Unified 3D Binary Convolutions for Image Analysis;n/a
+MIDL 2018;3D G-CNNs for Pulmonary Nodule Detection;https://doi.org/10.48550/arXiv.1804.04656
+MIDL 2018;Test-time Data Augmentation for Estimation of Heteroscedastic Aleatoric Uncertainty in Deep Neural Networks;n/a
+MIDL 2018;Cancer Metastasis Detection With Neural Conditional Random Field;https://doi.org/10.48550/arXiv.1806.07064
+MIDL 2018;Stacked Bidirectional Convolutional LSTMs for 3D Non-contrast CT Reconstruction from Spatiotemporal 4D CT;n/a
+MIDL 2018;Weakly Supervised Learning for Whole Slide Lung Cancer Image Classification;n/a
+MIDL 2018;Adversarial training with cycle consistency for unsupervised super-resolution in endomicroscopy;https://doi.org/10.1016/j.media.2019.01.011
+MIDL 2018;Deep Multi-Class Segmentation Without Ground-Truth Labels;n/a
+MIDL 2018;Size-constraint loss for weakly supervised CNN segmentation;n/a
+MIDL 2018;Iterative fully convolutional neural networks for automatic vertebra segmentation and identification;https://doi.org/10.1016/j.media.2019.02.005
