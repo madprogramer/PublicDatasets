@@ -8,6 +8,48 @@ However, it is actually non-trivial to observe the impact these datasets have on
 
 ## Log
 
+### 19-09-2022 : Citation vs. Attribution
+
+As a refresher, the first public dataset I'm searching for are mentions of the Lung Image dataset from [Kaggle Data Science Bowl '17](https://www.kaggle.com/c/data-science-bowl-2017). To that end, I'm querying for the terms `Data Science Bowl 2017`, `Nodule`, `Lung`, `Lung Tissue` and `Lung Imaging` in either the body, keywords or title of my collected papers. Intuitively this sounded like a good idea; until, of course, some things went wrong.
+
+For example, [_MILD-Net: Minimal information loss dilated network for gland instance segmentation in colon histology images (Graham et al., 2018)_](https://doi.org/10.1016/j.media.2018.12.001) and [_Evaluating Reinforcement Learning Agents for Anatomical Landmark Detection (Alansary et al., 2018)_](https://doi.org/10.1016/j.media.2019.02.007) cite work on `Lung Cancer` and `Lymph Node` detection in related work, but with no explicit mention in the body. They are presented as applications of machine learning, or as one paper put it: `computerized techniques`. To quote from the _MILD-Net_ paper which drops a lengthy citation in the middle of the introduction:
+
+> 1. Introduction
+> ...
+> Computerized techniques play a significant role in automated digitalized histology image analysis, with applications to various tasks including but limited to nuclei detection and segmentation (Graham, Rajpoot, 2018, Chen, Qi, Yu, Dou, Qin, Heng, 2017, Sirinukunwattana, Raza, Tsang, Snead, Cree, Rajpoot, 2016), mitosis detection (Cireşan, Giusti, Gambardella, Schmidhuber, 2013, Chen, Dou, Wang, Qin, Heng, et al., 2016, Veta, Van Diest, Willems, Wang, Madabhushi, Cruz-Roa, Gonzalez, Larsen, Vestergaard, Dahl, et al., 2015, Albarqouni, Baur, Achilles, Belagiannis, Demirci, Navab, 2016), tumor segmentation (Qaiser et al., 2017), image retrieval (Sapkota, Shi, Xing, Yang, 2018, Shi, Xing, Xu, Xie, Su, Yang, 2017), cancer type classification (Graham, Shaban, Qaiser, Khurram, Rajpoot, 2018, Kong, Wang, Li, Song, Zhang, 2017, Bejnordi, Veta, Van Diest, Van Ginneken, Karssemeijer, Litjens, Van Der Laak, Hermsen, Manson, Balkenhol, et al., 2017, Lin, Chen, Dou, Wang, Qin, Heng, 2018, Qaiser, Mukherjee, Reddy Pb, Munugoti, Tallam, Pitkäaho, Lehtimäki, Naughton, Berseth, Pedraza, et al., 2018), etc.
+> ...
+> 
+> Graham, Shaban, Qaiser, Khurram, Rajpoot, 2018
+S. Graham, M. Shaban, T. Qaiser, S.A. Khurram, N. Rajpoot
+Classification of lung cancer histology images using patch-level summary statistics
+Medical Imaging 2018: Digital Pathology, 10581, International Society for Optics and Photonics (2018), p. 1058119
+
+Another paper, with some shared authors, titled [_Attention U-Net: Learning Where to Look for the Pancreas (Oktay et ak., 2018)_](https://doi.org/10.48550/arXiv.1804.03999) is a lot more explicit in connecting `lung`-related medical imaging tasks to the paper:
+
+> 1. Introduction
+> Automated medical image segmentation has been extensively studied in the image analysis community
+due to the fact that manual, dense labelling of large amounts of medical images is a tedious and
+error-prone task. Accurate and reliable solutions are desired to increase clinical work flow efficiency
+and support decision making through fast and automatic extraction of quantitative measurements.
+With the advent of convolutional neural networks (CNNs), near-radiologist level performance can
+be achieved in automated medical image analysis tasks including cardiac MR segmentation [3] and
+cancerous lung nodule detection [17].
+> ...
+>
+> [17] Liao, F., Liang, M., Li, Z., Hu, X., Song, S.: Evaluate the malignancy of pulmonary nodules
+using the 3D deep leaky noisy-or network. arXiv preprint arXiv:1711.08324 (2017)
+
+On my part, I was only able to mark the _Attention U-Net_ paper as relating to `lung`s and `nodule` detection, even if it may be argued that the _MILD-Net_ and _Reinforcement Learning Agents_ papers also connected to this work. None of these are papers on lung imaging, but only derive some influence therefrom. Thus there were no experiments involving lung images here, at all.
+
+Moving onto papers which **do** actually deal with lung imaging, even then it's not always clear at what granularity the work is relevant. The paper [_Temporal Interpolation via Motion Field Prediction (Zhang et al., 2018)_](https://doi.org/10.48550/arXiv.1804.04440) refers to `Lung Tissue` as `Lung Structure` and so I discovered that my precise keyword-search for `Lung Tissue` was missing something which could be considered relevant. Perhaps, I ought to refine my method to be able to catch synonyms or similar terms.
+
+We tend to hold citation in a higher regard to attribution, that is to say the precise reference to related works is considered more valuable than the concrete explanation of the connection to said related works. While this practice has the advantage of making it easier to find the original work, it doesn't tell where and what for. An informal quote exchanged between colleagues can, surprisingly, reveal a whole lot more.
+
+These are all things for future authors to consdider, but as to me I'm going to need a more flexible search rule if I intend to get anywhere.
+
+Logging off, until next time \(^_^)/.
+
+
 ### 18-09-2022 : On Identifiers
 Last week I collected oral papers from MIDL 2018* on [openreview.net](https://openreview.net/group?id=MIDL.amsterdam/2018/Conference). This was a conference that took place right after [Data Science Bowl '17](https://www.kaggle.com/c/data-science-bowl-2017) so it seemed like a good source to observe immediate feedback.
 
