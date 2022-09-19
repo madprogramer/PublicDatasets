@@ -14,9 +14,12 @@ As a refresher, the first public dataset I'm searching for are mentions of the L
 
 For example, [_MILD-Net: Minimal information loss dilated network for gland instance segmentation in colon histology images (Graham et al., 2018)_](https://doi.org/10.1016/j.media.2018.12.001) and [_Evaluating Reinforcement Learning Agents for Anatomical Landmark Detection (Alansary et al., 2018)_](https://doi.org/10.1016/j.media.2019.02.007) cite work on `Lung Cancer` and `Lymph Node` detection in related work, but with no explicit mention in the body. They are presented as applications of machine learning, or as one paper put it: `computerized techniques`. To quote from the _MILD-Net_ paper which drops a lengthy citation in the middle of the introduction:
 
-> 1. Introduction
+>1. Introduction
+>
 > ...
+>
 > Computerized techniques play a significant role in automated digitalized histology image analysis, with applications to various tasks including but limited to nuclei detection and segmentation (Graham, Rajpoot, 2018, Chen, Qi, Yu, Dou, Qin, Heng, 2017, Sirinukunwattana, Raza, Tsang, Snead, Cree, Rajpoot, 2016), mitosis detection (Cireşan, Giusti, Gambardella, Schmidhuber, 2013, Chen, Dou, Wang, Qin, Heng, et al., 2016, Veta, Van Diest, Willems, Wang, Madabhushi, Cruz-Roa, Gonzalez, Larsen, Vestergaard, Dahl, et al., 2015, Albarqouni, Baur, Achilles, Belagiannis, Demirci, Navab, 2016), tumor segmentation (Qaiser et al., 2017), image retrieval (Sapkota, Shi, Xing, Yang, 2018, Shi, Xing, Xu, Xie, Su, Yang, 2017), cancer type classification (Graham, Shaban, Qaiser, Khurram, Rajpoot, 2018, Kong, Wang, Li, Song, Zhang, 2017, Bejnordi, Veta, Van Diest, Van Ginneken, Karssemeijer, Litjens, Van Der Laak, Hermsen, Manson, Balkenhol, et al., 2017, Lin, Chen, Dou, Wang, Qin, Heng, 2018, Qaiser, Mukherjee, Reddy Pb, Munugoti, Tallam, Pitkäaho, Lehtimäki, Naughton, Berseth, Pedraza, et al., 2018), etc.
+>
 > ...
 > 
 > Graham, Shaban, Qaiser, Khurram, Rajpoot, 2018
@@ -27,6 +30,7 @@ Medical Imaging 2018: Digital Pathology, 10581, International Society for Optics
 Another paper, with some shared authors, titled [_Attention U-Net: Learning Where to Look for the Pancreas (Oktay et ak., 2018)_](https://doi.org/10.48550/arXiv.1804.03999) is a lot more explicit in connecting `lung`-related medical imaging tasks to the paper:
 
 > 1. Introduction
+>
 > Automated medical image segmentation has been extensively studied in the image analysis community
 due to the fact that manual, dense labelling of large amounts of medical images is a tedious and
 error-prone task. Accurate and reliable solutions are desired to increase clinical work flow efficiency
