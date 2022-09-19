@@ -21,3 +21,29 @@ MIDL 2018;Adversarial training with cycle consistency for unsupervised super-res
 MIDL 2018;Deep Multi-Class Segmentation Without Ground-Truth Labels;n/a
 MIDL 2018;Size-constraint loss for weakly supervised CNN segmentation;n/a
 MIDL 2018;Iterative fully convolutional neural networks for automatic vertebra segmentation and identification;https://doi.org/10.1016/j.media.2019.02.005
+MIDL 2018;Towards Deep Cellular Phenotyping in Placental Histology ;https://doi.org/10.48550/arXiv.1804.03270
+MIDL 2018;Unsupervised Detection of Lesions in Brain MRI using constrained adversarial auto-encoders;https://doi.org/10.48550/arXiv.1806.04972
+MIDL 2018;Uncertainty-driven Sanity Check: Application to Postoperative Brain Tumor Cavity Segmentation;https://doi.org/10.48550/arXiv.1806.03106
+MIDL 2018;Domain Adaptation for MRI Organ Segmentation using Reverse Classification Accuracy;https://doi.org/10.48550/arXiv.1806.00363
+MIDL 2018;Generative Adversarial Training for MRA Image Synthesis Using Multi-contrast MRI;https://doi.org/10.1007/978-3-030-00320-3_18
+MIDL 2018;MURA Dataset: Towards Radiologist-Level Abnormality Detection in Musculoskeletal Radiographs;https://doi.org/10.48550/arXiv.1712.06957
+MIDL 2018;Automatic Detection and Characterization of Coronary Artery Plaque and Stenosis using a Recurrent Convolutional Neural Network in Coronary CT Angiography;n/a
+MIDL 2018;Histopathology Stain-Color Normalization Using Deep Generative Models;n/a
+MIDL 2018;Predictive Image Regression for Longitudinal Studies with Missing Data;https://doi.org/10.48550/arXiv.1808.07553
+MIDL 2018;Brain MRI super-resolution using 3D generative adversarial networks;https://doi.org/10.48550/arXiv.1812.11440
+MIDL 2018;Motion Estimation in Coronary CT Angiography Images using Convolutional Neural Networks;n/a
+MIDL 2018;Predicting Lesion Growth and Patient Survival in Colorectal Cancer Patients using Deep Neural Networks;n/a
+MIDL 2018;DeepSDCS: Dissecting cancer proliferation heterogeneity in Ki67 digital whole slide images;https://doi.org/10.48550/arXiv.1806.10850
+MIDL 2018;RadBot-CXR: Classification of Four Clinical Finding Categories in Chest X-Ray Using Deep Learning;n/a
+MIDL 2018;One-class Gaussian process regressor for quality assessment of transperineal ultrasound images;n/a
+MIDL 2018;Automatic multi-organ segmentation in dual energy CT using 3D fully convolutional network;n/a
+MIDL 2018;Retrospective correction of motion artifact affected structural MRI images using deep learning of simulated motion;n/a
+MIDL 2018;CNN-based Landmark Detection in Cardiac CTA Scans;https://doi.org/10.48550/arXiv.1804.04963
+MIDL 2018;Cascaded Transforming Multi-task Networks For Abdominal Biometric Estimation from Ultrasound;n/a
+MIDL 2018;Simultaneous synthesis of FLAIR and segmentation of white matter hypointensities from T1 MRIs;https://doi.org/10.48550/arXiv.1808.06519
+MIDL 2018;NeuroNet: Fast and Robust Reproduction of Multiple Brain Image Segmentation Pipelines;https://doi.org/10.48550/arXiv.1806.04224
+MIDL 2018;Convolutional Neural Networks for Lymphocyte detection in Immunohistochemically Stained Whole-Slide Images;n/a
+MIDL 2018;Unsupervised deformable image registration with fully connected generative neural network;n/a
+MIDL 2018;Attention-Gated Networks for Improving Ultrasound Scan Plane Detection;https://doi.org/10.48550/arXiv.1804.05338
+MIDL 2018;Blood Vessel Geometry Synthesis using Generative Adversarial Networks;https://doi.org/10.48550/arXiv.1804.04381
+MIDL 2018;Automatic Catheter and Tube Detection in Pediatric X-ray Images Using a Scale-Recurrent Network and Synthetic Data;https://doi.org/10.1007/s10278-019-00201-7
