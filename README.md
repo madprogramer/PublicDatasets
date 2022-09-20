@@ -8,6 +8,25 @@ However, it is actually non-trivial to observe the impact these datasets have on
 
 ## Log
 
+### 20-09-2022 : Semantic Searching
+
+After past blunders with brute-force querying, I spent today mostly catching up on semantic-searching. Flexible queries which can match contextual synonyms. There are large-scale production tools like [Solr](https://solr.apache.org/), but those seem overkill for now. Still interesting to learn about.
+
+[How to build semantic search for a given domain](https://stackoverflow.com/a/60312352/2089784)
+
+[https://www.youtube.com/watch?v=4fMZnunTRF8](https://www.youtube.com/watch?v=4fMZnunTRF8)
+
+- Likely, I will be working with `gensim`
+
+[How to do string semantic matching using gensim in Python?](https://stackoverflow.com/a/71828372/2089784)
+
+- But `Hugging Face` is making transformers really viable, so maybe it’s better to get with the times.
+
+[https://www.youtube.com/watch?v=OATCgQtNX2o](https://www.youtube.com/watch?v=OATCgQtNX2o)
+
+So these would allow me more versatility in searching for contest or topic mentions, but I still need to work out my pipeline for downloading articles and converting them to searchable documents.
+
+Logging off, until next time \(^_^)/.
 ### 19-09-2022 : Citation vs. Attribution
 
 As a refresher, the first public dataset I'm searching for are mentions of the Lung Image dataset from [Kaggle Data Science Bowl '17](https://www.kaggle.com/c/data-science-bowl-2017). To that end, I'm querying for the terms `Data Science Bowl 2017`, `Nodule`, `Lung`, `Lung Tissue` and `Lung Imaging` in either the body, keywords or title of my collected papers. Intuitively this sounded like a good idea; until, of course, some things went wrong.
