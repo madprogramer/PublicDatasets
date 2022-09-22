@@ -8,6 +8,22 @@ However, it is actually non-trivial to observe the impact these datasets have on
 
 ## Log
 
+### 22-09-2022 :  **The Hidden Popularity of Machine Learning Challenges**
+
+The biggest take-away from today’s meeting for me was getting to rename this project, which I feel has several layers of depth. **The Hidden Popularity of Machine Learning Challenges**
+
+I chose this name because I see that the project is moving away from pure Machine Learning to responsible machine learning. The previous name ***Predicting Popularity of Machine Learning Challenges*** had a connotation of predicting popularity as the output of some kind of model. But as I have seen over the past few days, we don’t yet have the resources to get there. Through citation negligence, identifier registration and the other hassles of the academic milieu, it is already challenging as-is to uncover references to Machine Learning Challenges. I feel that is the bulk of where I am working, and any inferential statistics will be the icing on the cake.
+
+Our over-arching project is code-named `Public Datasets`, but I have chosen to stick to `Machine Learning Challenge` datasets, specifically. So I kept that part of the name in tact. I now see this as very much a hotspot of unsolved problems and that draws me closer, giving me reason to focus.
+
+The next big challenge will be building a pipeline to bulk-downoad PDFs and extract text for processing. That will spare me of having to manually annotate everything and give a very valuable potential for scaling up.
+
+However Veronika as my supervisor also cautioned of me two things:
+
+- It might be a good idea to refine keywords, based on what we can gleam from paper mentioning `Data Science Bowl 2017` explicitly:
+
+- To avoid DOI-hunting, it’s better to work with finer curated proceedings. I will stick to `MIDL` for now, but I will be testing my PDF-extractor and querier using [`MIDL 2021` papers](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=%22data+science+bowl%22+%2B+lung&btnG=) instead.
+
 ### 20-09-2022 : Semantic Searching
 
 After past blunders with brute-force querying, I spent today mostly catching up on semantic-searching. Flexible queries which can match contextual synonyms. There are large-scale production tools like [Solr](https://solr.apache.org/), but those seem overkill for now. Still interesting to learn about.
