@@ -1,5 +1,5 @@
 
-# Christine's Weekly Meeting Notes
+# Ahmet's Weekly Meeting Notes
 * [22 September 2022](#date-22-september-2022)
 
 * [8 September 2022](#date-8-september-2022)
@@ -8,7 +8,7 @@
 
 * [Template](#template-date-dd-month-yyyy)
 
-### Date: [Template]
+### Date: 22 September 2022
 
 #### Who did you help this week?
 
