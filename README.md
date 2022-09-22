@@ -20,9 +20,9 @@ The next big challenge will be building a pipeline to bulk-downoad PDFs and extr
 
 However Veronika as my supervisor also cautioned of me two things:
 
-- It might be a good idea to refine keywords, based on what we can gleam from paper mentioning `Data Science Bowl 2017` explicitly:
+- It might be a good idea to refine keywords, based on what we can gleam from [papers mentioning `Data Science Bowl 2017`](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=%22data+science+bowl%22+%2B+lung&btnG=) explicitly:
 
-- To avoid DOI-hunting, it’s better to work with finer curated proceedings. I will stick to `MIDL` for now, but I will be testing my PDF-extractor and querier using [`MIDL 2021` papers](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=%22data+science+bowl%22+%2B+lung&btnG=) instead.
+- To avoid DOI-hunting, it’s better to work with finer curated proceedings. I will stick to `MIDL` for now, but I will be testing my PDF-extractor and querier using [`MIDL 2021` papers](https://proceedings.mlr.press/v143/) instead.
 
 ### 20-09-2022 : Semantic Searching
 
