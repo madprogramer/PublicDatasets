@@ -10,6 +10,44 @@
 
 * [Template](#template-date-dd-month-yyyy)
 
+### Date: [Template]
+
+#### Who did you help this week?
+
+It's not much but Amelia & Olivia seem to be interested in the (creative, critical & feminism) methods of ETHOS lab, which I told them I joined recently.
+
+#### What helped you this week?
+
+* The [pdfminer.six](https://github.com/pdfminer/pdfminer.six) project gave me a decent way to bulk-extract text from PDFs.
+* Thu Vu's https://github.com/thu-vu92/the_witcher_network project was some nice inspo.
+
+#### What did you achieve?
+
+* Devised basic pipeline for data collection.
+  * Still need to finish the code, though :)
+![PublicDatasetsv1](https://user-images.githubusercontent.com/3719664/192954418-a336e888-0d1d-474f-b187-a141ff53fea3.png)
+
+#### What did you struggle with?
+
+* Text extraction from PDFs
+  * My previous tool, https://github.com/kingaling/pydf2json was outdated and too verbose.
+  * Recovered thanks to pdfminer.six.
+
+#### What would you like to work on next week?
+
+* Replace this text with a bullet point list of what you would like to work on next week.
+* It's ok if your list is only one bullet point long!
+* Try to estimate how long each task will take.
+
+#### Where do you need help from Veronika?
+
+* Nothing for this week :)
+
+#### Any other topics
+
+Maybe should meet with Bethany some time next week to exchange ideas.
+
+
 ### Date: 22 September 2022
 
 #### Who did you help this week?
