@@ -10,7 +10,7 @@
 
 * [Template](#template-date-dd-month-yyyy)
 
-### Date: [Template]
+### Date: [29 September 2022]
 
 #### Who did you help this week?
 
