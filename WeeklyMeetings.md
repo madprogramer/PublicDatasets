@@ -35,9 +35,9 @@ It's not much but Amelia & Olivia seem to be interested in the (creative, critic
 
 #### What would you like to work on next week?
 
-* Replace this text with a bullet point list of what you would like to work on next week.
-* It's ok if your list is only one bullet point long!
-* Try to estimate how long each task will take.
+* Coding :)
+* Determining some nice keywords.
+  * No quantitive analysis yet, only direct inspection. Although, maybe relevant in the future.
 
 #### Where do you need help from Veronika?
 
