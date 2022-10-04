@@ -1,3 +1,4 @@
 
-.ipynb_checkpoints/ArticleAnalyser-checkpoint.ipynb
-.ipynb_checkpoints/requirements-checkpoint.txt
+.ipynb_checkpoints/*
+ArticleScraper/ArticleScraper/__pycache__/*
+ArticleScraper/ArticleScraper/spiders/__pycache__/*
