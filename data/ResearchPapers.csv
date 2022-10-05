@@ -1,0 +1,61 @@
+,Title,2017 Data Science Bowl,Kaggle Data Science Bowl 2017,Data Science Bowl 2017,KDSB17,DSB,lung cancer,nodule,competition,kaggle dataset,deep learning,Venue,DOI
+0,Distill DSM: Computationally efficient method for segmentation of medical imaging volumes,0,0,0,0,0,0,0,1,0,1,MIDL 2021,n/a
+1,Unifying Brain Age Prediction and Age-Conditioned Template Generation with a Deterministic Autoencoder,0,0,0,0,0,0,0,0,0,1,MIDL 2021,n/a
+2,"“Train one, Classify one, Teach one” - Cross-surgery transfer learning for surgical step recognition",0,0,0,0,0,0,0,0,0,1,MIDL 2021,n/a
+3,Predicting COVID-19 Lung Infiltrate Progression on Chest Radiographs Using Spatio-temporal LSTM based Encoder-Decoder Network,0,0,0,0,0,0,0,0,0,1,MIDL 2021,n/a
+4,Learning Interclass Relations for Intravenous Contrast Phase Classification in CT,0,0,0,0,0,0,0,0,0,1,MIDL 2021,n/a
+5,Embedding-based Instance Segmentation in Microscopy,0,0,0,0,0,1,0,0,0,1,MIDL 2021,n/a
+6,Benefits of Linear Conditioning for Segmentation using Metadata,0,0,0,0,0,1,0,1,0,1,MIDL 2021,n/a
+7,Feature-based image registration in structured light endoscopy,0,0,0,0,0,0,1,0,0,1,MIDL 2021,n/a
+8,Partial transfusion: on the expressive influence of trainable batch norm parameters for transfer learning,0,0,0,0,0,0,0,0,0,1,MIDL 2021,n/a
+9,Feedback Graph Attention Convolutional Network for MR Images Enhancement by Exploring Self-Similarity Features,0,0,0,0,0,0,0,0,0,1,MIDL 2021,n/a
+10,SWNet: Surgical Workflow Recognition with Deep Convolutional Network,0,0,0,0,0,0,0,0,0,1,MIDL 2021,n/a
+11,Hybrid optimization between iterative and network fine-tuning reconstructions for fast quantitative susceptibility mapping,0,0,0,0,0,0,0,0,0,1,MIDL 2021,n/a
+12,Automated triaging of head MRI examinations using convolutional neural networks,0,0,0,0,0,0,1,1,0,1,MIDL 2021,n/a
+13,Beyond pixel-wise supervision for segmentation: A few global shape descriptors might be surprisingly good!,0,0,0,0,0,0,0,0,0,0,MIDL 2021,n/a
+14,Whole-Body Soft-Tissue Lesion Tracking and Segmentation in Longitudinal CT Imaging Studies,0,0,0,0,0,1,0,0,0,1,MIDL 2021,n/a
+15,A regularization term for slide correlation reduction in whole slide image analysis with deep learning,0,0,0,0,0,0,0,0,0,1,MIDL 2021,n/a
+16,Learning the Latent Heat Diffusion Process through Structural Brain Network from Longitudinal $\beta$-Amyloid Data,0,0,0,0,0,0,0,0,0,1,MIDL 2021,n/a
+17,HAD-Net: A Hierarchical Adversarial Knowledge Distillation Network for Improved Enhanced Tumour Segmentation Without Post-Contrast Images,0,0,0,0,0,0,0,0,0,1,MIDL 2021,n/a
+18,Guided Filter Regularization for Improved Disentanglement of Shape and Appearance in Diffeomorphic Autoencoders,0,0,0,0,0,0,0,0,0,1,MIDL 2021,n/a
+19,Untangling the Small Intestine in 3D cine-MRI using Deep Stochastic Tracking,0,0,0,0,0,0,0,0,0,1,MIDL 2021,n/a
+20,An AI-based Framework for Diagnostic Quality Assessment of Ankle Radiographs,0,0,0,0,0,0,0,0,0,1,MIDL 2021,n/a
+21,MoCo Pretraining Improves Representation and Transferability of Chest X-ray Models,0,0,0,0,0,0,0,0,0,1,MIDL 2021,n/a
+22,Changing the Contrast of Magnetic Resonance Imaging Signals using Deep Learning,0,0,0,0,0,0,0,0,0,1,MIDL 2021,n/a
+23,Cluster-to-Conquer: A Framework for End-to-End Multi-Instance Learning for Whole Slide Image Classification,0,0,0,0,0,0,0,0,0,1,MIDL 2021,n/a
+24,Unseen Disease Detection for Deep Learning Interpretation of Chest X-rays,0,0,0,0,0,0,0,0,0,1,MIDL 2021,n/a
+25,A Mean-Field Variational Inference Approach to Deep Image Prior for Inverse Problems in Medical Imaging,0,0,0,0,0,0,0,0,0,1,MIDL 2021,n/a
+26,Weakly-supervised High-resolution Segmentation of Mammography Images for Breast Cancer Diagnosis,0,0,0,0,1,0,1,0,0,1,MIDL 2021,n/a
+27,Understanding and Visualizing Generalization in UNets,0,0,0,0,0,0,0,0,0,1,MIDL 2021,n/a
+28,Learning Diffeomorphic and Modality-invariant Registration using B-splines,0,0,0,0,0,0,0,0,0,1,MIDL 2021,n/a
+29,Balanced sampling for an object detection problem - application to fetal anatomies detection,0,0,0,0,0,0,0,0,0,1,MIDL 2021,n/a
+30,"Residual learning for 3D motion corrected quantitative MRI: Robust clinical T1, T2 and proton density mapping",0,0,0,0,0,0,0,1,0,1,MIDL 2021,n/a
+31,GOAL: Gist-set Online Active Learning for Efficient Chest X-ray Image Annotation,0,0,0,0,0,0,0,0,0,1,MIDL 2021,n/a
+32,The OOD Blind Spot of Unsupervised Anomaly Detection,0,0,0,0,0,1,0,0,0,1,MIDL 2021,n/a
+33,CNN and Deep Sets for End-to-End Whole Slide Image Representation Learning,0,0,0,0,0,0,0,0,0,1,MIDL 2021,n/a
+34,Discrete Pseudohealthy Synthesis: Aortic Root Shape Typification and Type Classification with Pathological Prior,0,0,0,0,0,0,0,0,0,1,MIDL 2021,n/a
+35,Membership Inference Attacks on Deep Regression Models for Neuroimaging,0,0,0,0,0,0,0,0,0,1,MIDL 2021,n/a
+36,Weakly Supervised Volumetric Segmentation via Self-taught Shape Denoising Model,0,0,0,0,0,0,0,0,0,1,MIDL 2021,n/a
+37,Localizing Neurosurgical Instruments Across Domains and in the Wild,0,0,0,0,0,0,1,0,0,1,MIDL 2021,n/a
+38,"EPIC-Survival: End-to-end Part Inferred Clustering for Survival Analysis, with Prognostic Stratification Boosting",0,0,0,0,0,0,0,0,0,1,MIDL 2021,n/a
+39,Direct Inference of Cell Positions using Lens-Free Microscopy and Deep Learning,0,0,0,0,0,0,0,0,0,0,MIDL 2021,n/a
+40,Self-supervised Out-of-distribution Detection for Cardiac CMR Segmentation,0,0,0,0,0,1,0,0,0,1,MIDL 2021,n/a
+41,Unsupervised Brain Anomaly Detection and Segmentation with Transformers,0,0,0,0,0,0,0,0,0,1,MIDL 2021,n/a
+42,CheXseg: Combining Expert Annotations with DNN-generated Saliency Maps for X-ray Segmentation,0,0,0,0,0,0,0,0,0,1,MIDL 2021,n/a
+43,A Surprisingly Effective Perimeter-based Loss for Medical Image Segmentation,0,0,0,0,0,0,0,0,0,1,MIDL 2021,n/a
+44,Nuc2Vec: Learning Representations of Nuclei in Histopathology Images with Contrastive Loss,0,0,0,0,0,0,0,0,0,1,MIDL 2021,n/a
+45,Improving MRI-based Knee Disorder Diagnosis with Pyramidal Feature Details,0,0,0,0,0,0,0,0,0,1,MIDL 2021,n/a
+46,M-GCN: A Multimodal Graph Convolutional Network to Integrate Functional and Structural Connectomics Data to Predict Multidimensional Phenotypic Characterizations,0,0,0,0,0,0,0,0,0,1,MIDL 2021,n/a
+47,Image Sequence Generation and Analysis via GRU and Attention for Trachomatous Trichiasis Classification,0,0,0,0,0,0,0,0,0,1,MIDL 2021,n/a
+48,Intensity Correction and Standardization for Electron Microscopy Data,0,0,0,0,0,0,0,0,0,1,MIDL 2021,n/a
+49,An MRF-UNet Product of Experts for Image Segmentation,0,0,0,0,0,0,0,0,0,0,MIDL 2021,n/a
+50,Semantic similarity metrics for learned image registration,0,0,0,0,0,0,0,0,0,1,MIDL 2021,n/a
+51,Stroke Lesion Outcome Prediction Based on 4D CT Perfusion Data Using Temporal Convolutional Networks,0,0,0,0,0,0,0,0,0,1,MIDL 2021,n/a
+52,Preface,0,0,0,0,0,0,0,0,0,1,MIDL 2021,n/a
+53,Gifsplanation via Latent Shift: A Simple Autoencoder Approach to Counterfactual Generation for Chest X-rays,0,0,0,0,0,0,0,0,0,1,MIDL 2021,n/a
+54,Attention via Scattering Transforms for Segmentation of Small Intravascular Ultrasound Data Sets,0,0,0,0,0,1,0,0,0,1,MIDL 2021,n/a
+55,Improving Weakly Supervised Lesion Segmentation using Multi-Task Learning,0,0,0,0,0,0,1,1,0,1,MIDL 2021,n/a
+56,Explainable Image Quality Analysis of Chest X-Rays,0,0,0,0,1,0,0,0,0,1,MIDL 2021,n/a
+57,Tailoring automated data augmentation to H&E-stained histopathology,0,0,0,0,0,0,0,0,0,1,MIDL 2021,n/a
+58,Self-Rule to Adapt: Learning Generalized Features from Sparsely-Labeled Data Using Unsupervised Domain Adaptation for Colorectal Cancer Tissue Phenotyping,0,0,0,0,0,0,0,0,0,1,MIDL 2021,n/a
+59,Improved model-based deep learning for quantitative susceptibility mapping,0,0,0,0,0,0,0,0,0,1,MIDL 2021,n/a
