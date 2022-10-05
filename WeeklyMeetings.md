@@ -1,5 +1,8 @@
 
 # Ahmet's Weekly Meeting Notes
+
+* [6 October 2022](#date-29-september-2022)
+
 * [29 September 2022](#date-29-september-2022)
 
 * [22 September 2022](#date-22-september-2022)
@@ -9,6 +12,46 @@
 * `Todo: Meetings Before?`
 
 * [Template](#template-date-dd-month-yyyy)
+
+### Date: 6 October 2022
+
+#### Who did you help this week?
+
+* Just sharing some ideas with the `MentalHealth` project members over MS Teams.
+
+#### What helped you this week?
+
+* Bethany's session on Surveys and Zotero from last week.
+* [Scrapy docs]*https://docs.scrapy.org/( for webcrawling.
+
+#### What did you achieve?
+
+* Coded a working pipeline!
+* Producing a new dataset checking name/keyword mentions on `Data Science Bowl 2017` in MIDL 2021 papers.
+
+#### What did you struggle with?
+
+- DOIs are missing. They were missing from the proceedings and I don’t yet have a strategy to scan for them.
+- I’m not filtering, for example, the preface of the proceedings. It was also downloaded and saved as `Proceedings.pdf` as part of the dataset.
+- Match frequency isn’t taken into consideration. One match is just as good as 100 in this scheme.
+  - Also, I have no way to check for homographic false-positives. Hence the `DSB` 2017 vs. 2018 confusion.
+
+#### What would you like to work on next week?
+
+As far as future work goes, searching for `kaggle` was the most revealing thing I came up with. When we have the collection of publications from a particular venue (or set of venues) we can find references to datasets which are missed in most relevance-based indexing systems.
+
+Then perhaps, instead of focussing on `DSB` alone we might try querying the word `kaggle` to extract a family of interrelated datasets across publications.
+
+#### Where do you need help from Veronika?
+
+* Should we increase the number of venues?
+  * Which venues?
+  * What years?
+* Is the `kaggle`, `competition` querying for discovery a good idea?
+
+#### Any other topics
+
+I am also going to conference next week (Belgium from the 12-14th).
 
 ### Date: 29 September 2022
 
