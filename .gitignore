@@ -3,3 +3,4 @@
 ArticleScraper/ArticleScraper/__pycache__/*
 ArticleScraper/ArticleScraper/spiders/__pycache__/*
 data/pdfs/*
+data/texts/*
