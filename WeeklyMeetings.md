@@ -22,7 +22,7 @@
 #### What helped you this week?
 
 * Bethany's session on Surveys and Zotero from last week.
-* [Scrapy docs]*https://docs.scrapy.org/( for webcrawling.
+* [Scrapy docs](https://docs.scrapy.org/) for webcrawling.
 
 #### What did you achieve?
 
