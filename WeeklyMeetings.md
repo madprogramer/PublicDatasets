@@ -1,6 +1,8 @@
 
 # Ahmet's Weekly Meeting Notes
 
+* [31 October 2022](#date-31-october-2022)
+
 * [6 October 2022](#date-29-september-2022)
 
 * [29 September 2022](#date-29-september-2022)
@@ -12,6 +14,59 @@
 * `Todo: Meetings Before?`
 
 * [Template](#template-date-dd-month-yyyy)
+
+### Date: 31 October 2022
+
+#### Who did you help this week?
+
+* No one :|
+
+#### What helped you this week?
+
+* I did attend the Digital Tech Summit though, which I'd love to talk about this week.
+
+* Earlier this month Bethany helped me with some suggestions. I also gave her some ideas, but they came a bit late into her project. 
+
+#### What did you achieve?
+
+* I realized that it's a good idea to check for keywords **in bibliography** and before **bibliography**: 
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7a8f7fae-f2ed-44be-a1d2-c6adc32a3247/Untitled.png)
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/77d5d199-4139-41d3-b3e1-207bbf95a318/Untitled.png)
+
+* I now actually have an objective way to demonstrate representation of online datasets (through bibliography)
+  * Now do I build a hypothesis that this is a under-representation?
+
+* Misc. refactoring
+  * Main dataset is venues/titles only
+   * Will later enable output for alternative match rules. 
+
+#### What did you struggle with?
+
+* The context-sensitivity of the word "challenge" makes it difficult as a keyword:
+  * "Challenges in Machine Learning" vs. "Machine Learning Challenges" 
+
+#### What would you like to work on next week?
+
+* Improving biblography checker.
+* Querying even more venues!
+* Can now do some basic quantative.
+
+#### Where do you need help from Veronika?
+
+* Any other querying ideas?
+
+* What are some meaningful comparisons?
+  * `Kaggle` mentioned in body vs. Bibliography?
+  * `Competition` mentioned in title + body vs. Bibliography?
+  * Number of times `competition` mentioned in title + body vs. Bibliography
+
+* Will have to do some tagging (i.e. if name is Data Science Bowl instead of Kaggle)
+  * Workaround ideas? 
+
+#### Any other topics
+
+* Forgot to add checks on Title :_)
 
 ### Date: 6 October 2022
 
