@@ -59,13 +59,9 @@
 
 * Any other querying ideas?
 
-* What are some meaningful comparisons?
-  * `Kaggle` mentioned in body vs. Bibliography?
-  * `Competition` mentioned in title + body vs. Bibliography?
-  * Number of times `competition` mentioned in title + body vs. Bibliography
-
-* Will have to do some tagging (i.e. if name is Data Science Bowl instead of Kaggle)
-  * Workaround ideas? 
+* Good practices for annotation?
+* What should I tag and why?
+ * My hypothesis is that "Challenge datasets are under-represented in bibliographies (than there actually are)" 
 
 #### Any other topics
 
