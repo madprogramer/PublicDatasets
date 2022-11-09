@@ -1,6 +1,8 @@
 
 # Ahmet's Weekly Meeting Notes
 
+* [9 November 2022](#date-9-november-2022)
+
 * [31 October 2022](#date-31-october-2022)
 
 * [6 October 2022](#date-29-september-2022)
@@ -14,6 +16,60 @@
 * `Todo: Meetings Before?`
 
 * [Template](#template-date-dd-month-yyyy)
+
+### Date: 9 November 2022
+
+#### Who did you help this week?
+
+* No one :|
+
+#### What helped you this week?
+
+* Reading past notes.
+
+#### What did you achieve?
+
+* Some notes on challenge dataset hunting:
+  * In papers comparing multiple datasets there is often a dedicated section listing all datasets.
+  * Appendices matter! There may be additional datasets only mentioned after the paper.
+
+* Challenge datasets are presented in one of three ways:
+ * The X competition
+   * Ex. _moco-cxr performance on the `chexpert` competition task pathologies._
+ * The X chalenge
+   * Ex. _the 2019 `fastmri` challenge_
+   * as opposed to _The goal of the conference is to foster excellent research that addresses the unique `challenge`s and opportunities_
+ * URL identifier
+   * Ex. https://www.kaggle.com/c/rsna-pneumonia-detection-challenge or https://promise12.grand-challenge.org
+
+#### What did you struggle with?
+
+* Analysis Paralysis:
+  * I'm not sure what I want to annotate, and with what tool
+  * How to scale it to 128 PDFs?
+* Comparing non-challenge datasets to challenge datasets
+  * Annotation seems infeasible.
+
+#### What would you like to work on next week?
+
+* Improving biblography checker.
+* Retrieving contest identifier by pattern-matching
+
+#### Where do you need help from Veronika?
+
+* Any other querying ideas?
+
+* What are some meaningful comparisons?
+  * `Kaggle` mentioned in body vs. Bibliography?
+  * `Competition` mentioned in title + body vs. Bibliography?
+  * Number of times `competition` mentioned in title + body vs. Bibliography
+
+* Will have to do some tagging (i.e. if name is Data Science Bowl instead of Kaggle)
+  * Workaround ideas? 
+
+#### Any other topics
+
+* Forgot to add checks on Title :_)
 
 ### Date: 31 October 2022
 
