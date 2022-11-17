@@ -1,6 +1,8 @@
 
 # Ahmet's Weekly Meeting Notes
 
+* [17 November 2022](#date-17-november-2022)
+
 * [9 November 2022](#date-9-november-2022)
 
 * [31 October 2022](#date-31-october-2022)
@@ -16,6 +18,60 @@
 * `Todo: Meetings Before?`
 
 * [Template](#template-date-dd-month-yyyy)
+
+### Date: 9 November 2022
+
+#### Who did you help this week?
+
+* No one :|
+
+#### What helped you this week?
+
+* [Christina's Thesis Notes](https://github.com/christinekaarde/MICCAI-review-thesis/tree/main/04-analysis) have been helpful figuring out what to do next.
+
+#### What did you achieve?
+
+* Data Schema for Datasets in Research Papers: 
+*  <img width="1176" alt="image" src="https://user-images.githubusercontent.com/3719664/202328692-c0c0dc93-5c82-4970-aa33-bea9f8982630.png">
+
+* Can fully automate:
+  *  Venue
+  *  Title
+  *  Dataset Origin
+* Can partially automate (**on keyword matches. F.x. Kaggle.**)
+  *  Citation Category
+  *  Access (Public or Private)
+  *  Bibliography
+  *  Bibliography Mention
+*  Not so easy to automate:
+  *  Dataset Identifier
+    *  Multiple references, sometimes full name sometimes abbreviated.
+    *  f.x. Usiigaci is not trivially associable with the title `Nucleus segmentation across imaging experiments: the 2018 Data Science Bowl`.
+
+#### What did you struggle with?
+
+* No matter what I do, some manual annotation is needed.
+  * This hurts the scalability of my results. 
+* Behind on plotting, but I expect to catch up next week.
+* I realized it might be a bit overkill to include **every** dataset used in a research paper.
+  * If I only include challenge datasets, I will only be able to compare them amongst each other:
+    * Footnotes vs. Bibliographic Citations. Broken, Rotten and Active Links.
+  * But if I should exclude any datasets, I don't know which ones to exclude.
+    * Can compare dataset hosts (GitHub vs. Institutional), frequency of challenge datasets against baseline.
+
+#### What would you like to work on next week?
+
+* Results, results, results!
+* If I complete the pipeline on the automatable data,
+  * then I can manually fill in the remaining fields and update figures in future weeks.
+  * This would require me to churn most of the report within the next 2 weeks.
+
+#### Where do you need help from Veronika?
+
+* What should my inclusion/exclusion criteria be on datasets from our collected research papers?
+
+* My deadline is December 15, but I am starting to worry if I might need an extension.
+ * What are my options? Scaling down my scope or extending my deadline?
 
 ### Date: 9 November 2022
 
