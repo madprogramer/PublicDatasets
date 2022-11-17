@@ -32,21 +32,22 @@
 #### What did you achieve?
 
 * Data Schema for Datasets in Research Papers: 
-*  <img width="1176" alt="image" src="https://user-images.githubusercontent.com/3719664/202328692-c0c0dc93-5c82-4970-aa33-bea9f8982630.png">
+* <img width="1128" alt="image" src="https://user-images.githubusercontent.com/3719664/202332452-69c97c53-3ca4-4a25-9156-303c2b600028.png">
 
 * Can fully automate:
   *  Venue
   *  Title
-  *  Dataset Origin
+  *  Dataset Origin (given URL)
 * Can partially automate (**on keyword matches. F.x. Kaggle.**)
-  *  Citation Category
+  *  Citation Category (Footnote, Journal Publication or URL)
   *  Access (Public or Private)
-  *  Bibliography
-  *  Bibliography Mention
+  *  Bibliography Mentions
 *  Not so easy to automate:
-  *  Dataset Identifier
+  * Dataset Identifier
     *  Multiple references, sometimes full name sometimes abbreviated.
     *  f.x. Usiigaci is not trivially associable with the title `Nucleus segmentation across imaging experiments: the 2018 Data Science Bowl`.
+  * Notes
+    * When keyword match isn't present, annotation requires further context.
 
 #### What did you struggle with?
 
