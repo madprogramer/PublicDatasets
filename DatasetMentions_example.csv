@@ -1,0 +1,47 @@
+;Venue;Title;Dataset Identifier;Citation;Link;Link Access;Bibliography;Publication Access;Origin;Access Notes
+1;MIDL 2021;GOAL: Gist-set Online Active Learning for Efficient Chest X-ray Image Annotation;AO & LL;Excluded;n/a;Private;n/a;n/a;n/a;"For the 1st case, we use our private datasets of AO and LL. The train set consists of 131,030 data points with 68,959 positive AO instances and 12,848 positive LL instances. Two or three radiologists annotated each instance. We chose these radiologists from a pool of more than 30 radiologists with at least five years of experience. The test set consists of 4, 279 instances. Each instance is annotated by a group of five to eight radiologists from the same pool. It contains 1, 789 positive AO instances and 857 positive LL instances. 
+"
+2;MIDL 2021;GOAL: Gist-set Online Active Learning for Efficient Chest X-ray Image Annotation;RSNA Pneumonia Detection Challenge;Footnote;https://www.kaggle.com/c/rsna-pneumonia-detection;Broken Link;n/a;n/a;kaggle.com;The link is misformatted: https://www.kaggle.com/c/rsna-pneumonia-detection challenge, it should be https://www.kaggle.com/c/rsna-pneumonia-detection-challenge
+3;MIDL 2021;GOAL: Gist-set Online Active Learning for Efficient Chest X-ray Image Annotation;CheXpert;Publication;n/a;n/a;"Jeremy Irvin, Pranav Rajpurkar, Michael Ko, Yifan Yu, Silviana CiureaIlcus, Chris Chute, Henrik Marklund, Behzad Haghgoo, Robyn Ball, Katie Shpanskaya, Jayne Seekins, David A. Mong, Safwan S. Halabi, Jesse K. Sandberg, Ricky Jones, David B. Larson, Curtis P. Langlotz, Bhavik N. Patel, Matthew P. Lungren, and Andrew Y. Ng. Chexpert: A large chest radiograph dataset with uncertainty labels and expert comparison, 2019. 
+";Open;stanfordmlgroup.github.io;Available at https://stanfordmlgroup.github.io/competitions/chexpert/
+4;MIDL 2021;"Embedding-based Instance Segmentation in Microscopy
+";BBBC010 C. elegans;Publication;n/a;n/a;"Vebjorn Ljosa, Katherine L Sokolnicki, and Anne E. Carpenter. Annotated high-throughput microscopy image sets for validation. Nature Methods, 9, 2012. 
+";Open;bbbc.broadinstitute.org;“We used the C. elegans infection live/dead image set version 1 provided by Fred Ausubel and available from the Broad Bioimage Benchmark Collection “, available at https://bbbc.broadinstitute.org/BBBC010
+5;MIDL 2021;"Embedding-based Instance Segmentation in Microscopy
+";"Usiigaci NIH/3T3 
+";Publication;n/a;n/a;Hsieh-Fu Tsai, Joanna Gajda, Tyler F.W. Sloan, Andrei Rares, and Amy Q. Shen. Nucleus segmentation across imaging experiments: the 2018 Data Science Bowl. SoftwareX, 9:230–237, 2019.;Open;bbbc.broadinstitute.org;Dataset was renamed between preprint and publication. Usiigaci, is now available under the name BBBC038 at https://bbbc.broadinstitute.org/BBBC038/
+6;MIDL 2021;"Embedding-based Instance Segmentation in Microscopy
+";DSB 2018;Publication;n/a;n/a;"Juan C. Caicedo, Allen Goodman, Kyle W. Karhohs, Beth A. Cimini, Jeanelle Ackerman, Marzieh Haghighi, CherKeng hend, Tim Becker, Minh Doan, Claire McQuin, Mohammad Rohban, Shan- tanu Singh, and Anne E. Carpenter. Nucleus segmentation across imaging experiments: the 2018 Data Science Bowl . Nature Methods, 16, 2019a. 
+";Open;kaggle.com;Available at https://www.kaggle.com/c/data-science-bowl-2018/
+7;MIDL 2021;"Embedding-based Instance Segmentation in Microscopy
+";Mouse-Organoid-Cells-CBG;Paper Dataset;https://github.com/juglab/EmbedSeg/releases/tag/v0.1.0;Live;n/a;n/a;GitHub.com;Available at https://github.com/juglab/EmbedSeg/releases/tag/v0.1.0
+8;MIDL 2021;"Embedding-based Instance Segmentation in Microscopy
+";Platynereis-Nuclei-CBG;Paper Dataset;https://github.com/juglab/EmbedSeg/releases/tag/v0.1.0;Live;n/a;n/a;GitHub.com;Available at https://github.com/juglab/EmbedSeg/releases/tag/v0.1.0
+9;MIDL 2021;"Embedding-based Instance Segmentation in Microscopy
+";Mouse-Skull-Nuclei-CBG;Paper Dataset;https://github.com/juglab/EmbedSeg/releases/tag/v0.1.0;Live;n/a;n/a;GitHub.com;Available at https://github.com/juglab/EmbedSeg/releases/tag/v0.1.0
+10;MIDL 2021;"Embedding-based Instance Segmentation in Microscopy
+";Platynereis-ISH-Nuclei-CBG;Paper Dataset;https://github.com/juglab/EmbedSeg/releases/tag/v0.1.0;Live;n/a;n/a;GitHub.com;Available at https://github.com/juglab/EmbedSeg/releases/tag/v0.1.0
+11;"ML4H 2021
+";How Transferable are Self-supervised Features in Medical Image Classification Tasks?;PatchCam;Publication + Footnote;n/a;Live + Broken Link;"Babak Ehteshami Bejnordi, Mitko Veta, Paul Johannes van Diest, Bram van Ginneken, Nico Karssemeijer, Geert Litjens, Jeroen A. W. M. van der Laak, , and the CAMELYON16 Consortium. Diagnostic Assessment of Deep Learning Algorithms for Detection of Lymph Node Metastases in Women With Breast Cancer. JAMA, 318(22): 2199–2210, 12 2017. ISSN 0098-7484. doi: 10. 1001/jama.2017.14585. URL https://doi.org/ 10.1001/jama.2017.14585. 
+Bastiaan S Veeling, Jasper Linmans, Jim Winkens, Taco Cohen, and Max Welling. Rotation equivariant cnns for digital pathology. In International Conference on Medical image computing and computer-assisted intervention, pages 210–218. Springer, 2018. ";Open;kaggle.com;"Footnoted link is broken, rendered as https://www.kaggle.com/c/ histopathologic-cancer-detection instead of https://www.kaggle.com/c/histopathologic-cancer-detection. However, the associated publications are cited properly.
+"
+12;"ML4H 2021
+";How Transferable are Self-supervised Features in Medical Image Classification Tasks?;APTOS;Footnote;https://www.kaggle.com/c/;Broken Link;Excluded;Excluded;kaggle.com;"The link is misformatted: https://www.kaggle.com/c/ aptos2019- blindness- detection  
+ challenge, it should be https://www.kaggle.com/c/aptos2019-blindness-detection"
+13;"ML4H 2021
+";How Transferable are Self-supervised Features in Medical Image Classification Tasks?;Pneumonia Chest X-ray;Publication + Footnote; https://www.kaggle.com/c/;Live + Broken Link;"Daniel S. Kermany, Michael Goldbaum, Wenjia Cai, Carolina C.S. Valentim, Huiying Liang, Sally L. Baxter, Alex McKeown, Ge Yang, Xiaokang Wu, Fangbing Yan, Justin Dong, Made K. Prasadha, Jacqueline Pei, Magdalene Y.L. Ting, Jie Zhu, Christina Li, Sierra Hewett, Jason Dong, Ian Ziyar, Alexander Shi, Runze Zhang, Lianghong Zheng, Rui Hou, William Shi, Xin Fu, Yaou Duan, Viet A.N. Huu, Cindy Wen, Edward D. Zhang, Charlotte L. Zhang, Oulan Li, Xiaobo Wang, Michael A. Singer, Xiaodong Sun, Jie Xu, Ali Tafreshi, M. Anthony Lewis, Huimin Xia, and Kang Zhang. Identifying medical diagnoses and treatable diseases by image-based deep learn- ing. Cell, 172(5):1122–1131.e9, 2018. ISSN 0092- 8674. doi: https://doi.org/10.1016/j.cell.2018. 02.010. URL https://www.sciencedirect.com/ science/article/pii/S0092867418301545. 
+";Open;kaggle.com;"Footnoted link is broken, rendered as https://www.kaggle.com/c/ histopathologic-cancer-detection instead of https://www.kaggle.com/c/histopathologic-cancer-detection. However, the associated publication is cited properly.
+"
+14;"ML4H 2021
+";How Transferable are Self-supervised Features in Medical Image Classification Tasks?;NIH Chest X-ray;Publication + Footnote;https://nihcc.app.box.com/v/ChestXray-NIHCC;Live;Anna Majkowska, Sid Mittal, David F. Steiner, Joshua J. Reicher, Scott Mayer McKinney, Gavin E. Duggan, Krish Eswaran, Po-Hsuan, Cameron Chen, Yun Liu, Sreenivasa Raju Kalidindi, Alexander Ding, Greg S. Corrado, Daniel Tse, and Shravya Shetty. Chest radiograph interpretation with deep learning models: Assess- ment with radiologist-adjudicated reference standards and population-adjusted evaluation. Radiology, 294(2):421–431, 2020. doi: 10.1148/radiol. 2019191293. URL https://doi.org/10.1148/ radiol.2019191293. PMID: 31793848. ;Open;nihcc.app.box.com;Available at https://nihcc.app.box.com/v/ChestXray-NIHCC
+15;CHIL 2021;"Context-Sensitive Spelling Correction of Clinical Text via Conditional Independence 
+";"MIMIC-III 
+";Publication;n/a;n/a;Alistair E. W. Johnson, Tom J. Pollard, Lu Shen, Liwei H. Lehman, Mengling Feng, Mohammad Ghassemi, Benjamin Moody, Peter Szolovits, Leo Anthony Celi, and Roger G. Mark. MIMIC-III, a freely accessible critical care database. Scientific Data, 3(160035), 2016. doi: https://doi.org/10. 1038/sdata.2016.35.;Open;n/a;"Taken from Data and Code Availability 
+"
+16;CHIL 2021;Context-Sensitive Spelling Correction of Clinical Text via Conditional Independence;PhysioNet;Publication;n/a;n/a;"GB Moody, RG Mark, and AL Goldberger. Physionet: A research resource for studies of complex physiologic and biomedical signals. In Comput- ers in Cardiology 2000. Vol. 27 (Cat. 00CH37163), pages 179–182. IEEE, 2000. 
+";Closed;n/a;Taken from Data and Code Availability 
+17;CHIL 2021;Context-Sensitive Spelling Correction of Clinical Text via Conditional Independence;MIMIC- III mispelling annotation ;Publication;n/a;n/a;Pieter Fivez, Simon Sˇuster, and Walter Daelemans. Unsupervised context-sensitive spelling correction of clinical free-text with word and character n-gram embeddings. In BioNLP 2017, pages 143–148, Au- gust 2017. doi: 10.18653/v1/W17-2317. URL https://www.aclweb.org/anthology/W17-2317.;Open;n/a;Taken from Data and Code Availability 
+18;CHIL 2021;Context-Sensitive Spelling Correction of Clinical Text via Conditional Independence;CSpell ;Publication;n/a;n/a;"Chris J Lu, Alan R Aronson, Sonya E Shooshan, and Dina Demner-Fushman. Spell checker for consumer language (cspell). Journal of the American Medical Informatics Association, 26(3):211–218, 2019. 
+";Open;n/a;Taken from Data and Code Availability 
+19;;;;;;;;;;
+20;;;;;;;;;;
