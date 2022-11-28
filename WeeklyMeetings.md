@@ -1,6 +1,8 @@
 
 # Ahmet's Weekly Meeting Notes
 
+* [28 November 2022](#date-28-november-2022)
+
 * [17 November 2022](#date-17-november-2022)
 
 * [9 November 2022](#date-9-november-2022)
@@ -18,6 +20,41 @@
 * `Todo: Meetings Before?`
 
 * [Template](#template-date-dd-month-yyyy)
+
+### Date: 28 November 2022
+
+#### Who did you help this week?
+
+* No one :|
+
+#### What helped you this week?
+
+* Going over [past notes on Notion](https://www.notion.so/vcheplygina/PublicDatasets-Ahmet-efe0dbcb1740488a86878f48196f051c) has been helpful. I was much better of keeping track of everything when I first started the project and that has given me ample material for the report.
+
+#### What did you achieve?
+
+* [Progress on report](https://www.overleaf.com/read/wnkpgqnykcty).
+
+#### What did you struggle with?
+
+* Time Management: Part-time work and my other research project have been quite draining.
+* Trying to minimize manual annotation.
+
+#### What would you like to work on next week?
+
+* Results:
+  * Research obervations have given us new problems to examine.
+    * Bibliometric Exclusion: The consequences of Datasets being used even when not cited in the bibliography.
+    * Broken Links: Frequency of ML Challenge Web Addresses being noted incorrectly or being unreachable.
+
+#### Where do you need help from Veronika?
+
+* How do we demonstrate under-representation:
+  * Statistical power? 
+  * F.x. the Power Inequality Effect definition from the [The glass ceiling in NLP](https://aclanthology.org/D18-1301.pdf) paper.
+
+* Does it make sense to include raw PDFs or .txt files in the dataset?
+  * These are retrievable my script, anyway.
 
 ### Date: 17 November 2022
 
