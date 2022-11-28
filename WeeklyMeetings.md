@@ -1,6 +1,12 @@
 
 # Ahmet's Weekly Meeting Notes
 
+* [28 November 2022](#date-28-november-2022)
+
+* [17 November 2022](#date-17-november-2022)
+
+* [9 November 2022](#date-9-november-2022)
+
 * [31 October 2022](#date-31-october-2022)
 
 * [6 October 2022](#date-29-september-2022)
@@ -14,6 +20,146 @@
 * `Todo: Meetings Before?`
 
 * [Template](#template-date-dd-month-yyyy)
+
+### Date: 28 November 2022
+
+#### Who did you help this week?
+
+* No one :|
+
+#### What helped you this week?
+
+* Going over [past notes on Notion](https://www.notion.so/vcheplygina/PublicDatasets-Ahmet-efe0dbcb1740488a86878f48196f051c) has been helpful. I was much better of keeping track of everything when I first started the project and that has given me ample material for the report.
+
+#### What did you achieve?
+
+* [Progress on report](https://www.overleaf.com/read/wnkpgqnykcty).
+
+#### What did you struggle with?
+
+* Time Management: Part-time work and my other research project have been quite draining.
+* Trying to minimize manual annotation.
+
+#### What would you like to work on next week?
+
+* Results:
+  * Research obervations have given us new problems to examine.
+    * Bibliometric Exclusion: The consequences of Datasets being used even when not cited in the bibliography.
+    * Broken Links: Frequency of ML Challenge Web Addresses being noted incorrectly or being unreachable.
+
+#### Where do you need help from Veronika?
+
+* How do we demonstrate under-representation:
+  * Statistical power? 
+  * F.x. the Power Inequality Effect definition from the [The glass ceiling in NLP](https://aclanthology.org/D18-1301.pdf) paper.
+
+* Does it make sense to include raw PDFs or .txt files in the dataset?
+  * These are retrievable my script, anyway.
+
+### Date: 17 November 2022
+
+#### Who did you help this week?
+
+* No one :|
+
+#### What helped you this week?
+
+* [Christina's Thesis Notes](https://github.com/christinekaarde/MICCAI-review-thesis/tree/main/04-analysis) have been helpful figuring out what to do next.
+
+#### What did you achieve?
+
+* Data Schema for Datasets in Research Papers: 
+* <img width="1128" alt="image" src="https://user-images.githubusercontent.com/3719664/202332452-69c97c53-3ca4-4a25-9156-303c2b600028.png">
+
+* Can fully automate:
+  *  Venue
+  *  Title
+  *  Dataset Origin (given URL)
+* Can partially automate (**on keyword matches. F.x. Kaggle.**)
+  *  Citation Category (Footnote, Journal Publication or URL)
+  *  Access (Public or Private)
+  *  Bibliography Mentions
+*  Not so easy to automate:
+  * Dataset Identifier
+    *  Multiple references, sometimes full name sometimes abbreviated.
+    *  f.x. Usiigaci is not trivially associable with the title `Nucleus segmentation across imaging experiments: the 2018 Data Science Bowl`.
+  * Notes
+    * When keyword match isn't present, annotation requires further context.
+
+#### What did you struggle with?
+
+* No matter what I do, some manual annotation is needed.
+  * This hurts the scalability of my results. 
+* Behind on plotting, but I expect to catch up next week.
+* I realized it might be a bit overkill to include **every** dataset used in a research paper.
+  * If I only include challenge datasets, I will only be able to compare them amongst each other:
+    * Footnotes vs. Bibliographic Citations. Broken, Rotten and Active Links.
+  * But if I should exclude any datasets, I don't know which ones to exclude.
+    * Can compare dataset hosts (GitHub vs. Institutional), frequency of challenge datasets against baseline.
+
+#### What would you like to work on next week?
+
+* Results, results, results!
+* If I complete the pipeline on the automatable data,
+  * then I can manually fill in the remaining fields and update figures in future weeks.
+  * This would require me to churn most of the report within the next 2 weeks.
+
+#### Where do you need help from Veronika?
+
+* What should my inclusion/exclusion criteria be on datasets from our collected research papers?
+
+* My deadline is December 15, but I am starting to worry if I might need an extension.
+ * What are my options? Scaling down my scope or extending my deadline?
+
+### Date: 9 November 2022
+
+#### Who did you help this week?
+
+* No one :|
+
+#### What helped you this week?
+
+* Reading past notes.
+
+#### What did you achieve?
+
+* Some notes on challenge dataset hunting:
+  * In papers comparing multiple datasets there is often a dedicated section listing all datasets.
+  * Appendices matter! There may be additional datasets only mentioned after the paper.
+
+* Challenge datasets are presented in one of three ways:
+ * The X competition
+   * Ex. _moco-cxr performance on the `chexpert` competition task pathologies._
+ * The X chalenge
+   * Ex. _the 2019 `fastmri` challenge_
+   * as opposed to _The goal of the conference is to foster excellent research that addresses the unique `challenge`s and opportunities_
+ * URL identifier
+   * Ex. https://www.kaggle.com/c/rsna-pneumonia-detection-challenge or https://promise12.grand-challenge.org
+
+#### What did you struggle with?
+
+* Analysis Paralysis:
+  * I'm not sure what I want to annotate, and with what tool
+  * How to scale it to 128 PDFs?
+* Comparing non-challenge datasets to challenge datasets
+  * Annotation seems infeasible.
+
+#### What would you like to work on next week?
+
+* Improving biblography checker.
+* Retrieving contest identifier by pattern-matching
+
+#### Where do you need help from Veronika?
+
+* Any other querying ideas?
+
+* Good practices for annotation?
+* What should I tag and why?
+ * My hypothesis is that "Challenge datasets are under-represented in bibliographies (than there actually are)" 
+
+#### Any other topics
+
+* Forgot to add checks on Title :_)
 
 ### Date: 31 October 2022
 
