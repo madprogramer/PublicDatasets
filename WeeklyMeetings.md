@@ -55,7 +55,10 @@
 
 * Solution: Incorporate manual annotation into methodology.
   * The goal of automation now is to make annotation easier, however, anyone repeating or extending my work will also need to do some manual work after.
-  * The last step of automation will now produce excerpts which contain the references to datasets. It is now the responsibility of the annotator to extract the final details into the dataset they produce.
+  * The last step of automation will now produce **excerpts** which contain the references to datasets. It is now the responsibility of the annotator to extract the final details into the dataset they produce.
+
+![image](https://user-images.githubusercontent.com/3719664/205053897-480aec80-4173-408a-8834-82d9e16e557d.png)
+
 
 #### Where do you need help from Veronika?
 
