@@ -1,129 +1,25 @@
 ,Venue,Title
-0,ML4H 2020,"Interpretable Epilepsy Detection in Routine, Interictal EEG Data using Deep Learning"
-1,ML4H 2020,EEG-GCNN: Augmenting Electroencephalogram-based Neurological Disease Diagnosis using a Domain-guided Graph Convolutional Neural Network
-2,ML4H 2020,Confounding Feature Acquisition for Causal Effect Estimation
-3,ML4H 2020,Addressing the Real-world Class Imbalance Problem in Dermatology
-4,ML4H 2020,A Neural SIR Model for Global Forecasting
-5,ML4H 2020,"CheXphoto: 10,000+ Photos and Transformations of Chest X-rays for Benchmarking Deep Learning Robustness"
-6,ML4H 2020,3D Photography Based Neural Network Craniosynostosis Triaging System
-7,ML4H 2020,Attend and Decode: 4D fMRI Task State Decoding Using Attention Models
-8,ML4H 2020,TL-Lite: Temporal Visualization and Learning for Clinical Forecasting
-9,MIDL 2021,Hybrid optimization between iterative and network fine-tuning reconstructions for fast quantitative susceptibility mapping
-10,ML4H 2020,DeepHeartBeat: Latent trajectory learning of cardiac cycles using cardiac ultrasounds
-11,ML4H 2020,Trust Issues: Uncertainty Estimation Does Not Enable Reliable OOD Detection On Medical Tabular Data
-12,MIDL 2021,SWNet: Surgical Workflow Recognition with Deep Convolutional Network
-13,ML4H 2020,Spectral discontinuity design: Interrupted time series with spectral mixture kernels
-14,ML4H 2020,Contrastive Representation Learning for Electroencephalogram Classification
-15,ML4H 2020,Appropriate Evaluation of Diagnostic Utility of Machine Learning Algorithm Generated Images
-16,MIDL 2021,A regularization term for slide correlation reduction in whole slide image analysis with deep learning
-17,MIDL 2021,HAD-Net: A Hierarchical Adversarial Knowledge Distillation Network for Improved Enhanced Tumour Segmentation Without Post-Contrast Images
-18,MIDL 2021,Guided Filter Regularization for Improved Disentanglement of Shape and Appearance in Diffeomorphic Autoencoders
-19,MIDL 2021,Learning the Latent Heat Diffusion Process through Structural Brain Network from Longitudinal $\beta$-Amyloid Data
-20,MIDL 2021,MoCo Pretraining Improves Representation and Transferability of Chest X-ray Models
-21,ML4H 2020,ML4H Auditing: From Paper to Practice
-22,MIDL 2021,Changing the Contrast of Magnetic Resonance Imaging Signals using Deep Learning
-23,MIDL 2021,Automated triaging of head MRI examinations using convolutional neural networks
-24,MIDL 2021,Untangling the Small Intestine in 3D cine-MRI using Deep Stochastic Tracking
-25,MIDL 2021,Cluster-to-Conquer: A Framework for End-to-End Multi-Instance Learning for Whole Slide Image Classification
-26,MIDL 2021,Unseen Disease Detection for Deep Learning Interpretation of Chest X-rays
-27,MIDL 2021,Understanding and Visualizing Generalization in UNets
-28,ML4H 2020,Evaluation of Contrastive Predictive Coding for Histopathology Applications
-29,MIDL 2021,Balanced sampling for an object detection problem - application to fetal anatomies detection
-30,MIDL 2021,GOAL: Gist-set Online Active Learning for Efficient Chest X-ray Image Annotation
-31,MIDL 2021,Learning Diffeomorphic and Modality-invariant Registration using B-splines
-32,MIDL 2021,"Residual learning for 3D motion corrected quantitative MRI: Robust clinical T1, T2 and proton density mapping"
-33,MIDL 2021,"“Train one, Classify one, Teach one” - Cross-surgery transfer learning for surgical step recognition"
-34,MIDL 2021,A Mean-Field Variational Inference Approach to Deep Image Prior for Inverse Problems in Medical Imaging
-35,MIDL 2021,Unifying Brain Age Prediction and Age-Conditioned Template Generation with a Deterministic Autoencoder
-36,MIDL 2021,Distill DSM: Computationally efficient method for segmentation of medical imaging volumes
-37,MIDL 2021,Learning Interclass Relations for Intravenous Contrast Phase Classification in CT
-38,MIDL 2021,Unsupervised Brain Anomaly Detection and Segmentation with Transformers
-39,MIDL 2021,Image Sequence Generation and Analysis via GRU and Attention for Trachomatous Trichiasis Classification
-40,MIDL 2021,Benefits of Linear Conditioning for Segmentation using Metadata
-41,MIDL 2021,Embedding-based Instance Segmentation in Microscopy
-42,MIDL 2021,Predicting COVID-19 Lung Infiltrate Progression on Chest Radiographs Using Spatio-temporal LSTM based Encoder-Decoder Network
-43,MIDL 2021,Localizing Neurosurgical Instruments Across Domains and in the Wild
-44,MIDL 2021,Feature-based image registration in structured light endoscopy
-45,MIDL 2021,Partial transfusion: on the expressive influence of trainable batch norm parameters for transfer learning
-46,MIDL 2021,Feedback Graph Attention Convolutional Network for MR Images Enhancement by Exploring Self-Similarity Features
-47,MIDL 2021,CNN and Deep Sets for End-to-End Whole Slide Image Representation Learning
-48,MIDL 2021,The OOD Blind Spot of Unsupervised Anomaly Detection
-49,MIDL 2021,Weakly Supervised Volumetric Segmentation via Self-taught Shape Denoising Model
-50,MIDL 2021,Explainable Image Quality Analysis of Chest X-Rays
-51,MIDL 2021,Discrete Pseudohealthy Synthesis: Aortic Root Shape Typification and Type Classification with Pathological Prior
-52,MIDL 2021,Beyond pixel-wise supervision for segmentation: A few global shape descriptors might be surprisingly good!
-53,MIDL 2021,Direct Inference of Cell Positions using Lens-Free Microscopy and Deep Learning
-54,MIDL 2021,Membership Inference Attacks on Deep Regression Models for Neuroimaging
-55,MIDL 2021,Self-supervised Out-of-distribution Detection for Cardiac CMR Segmentation
-56,MIDL 2021,Weakly-supervised High-resolution Segmentation of Mammography Images for Breast Cancer Diagnosis
-57,MIDL 2021,An AI-based Framework for Diagnostic Quality Assessment of Ankle Radiographs
-58,MIDL 2021,A Surprisingly Effective Perimeter-based Loss for Medical Image Segmentation
-59,MIDL 2021,CheXseg: Combining Expert Annotations with DNN-generated Saliency Maps for X-ray Segmentation
-60,MIDL 2021,Whole-Body Soft-Tissue Lesion Tracking and Segmentation in Longitudinal CT Imaging Studies
-61,MIDL 2021,Improving MRI-based Knee Disorder Diagnosis with Pyramidal Feature Details
-62,MIDL 2021,M-GCN: A Multimodal Graph Convolutional Network to Integrate Functional and Structural Connectomics Data to Predict Multidimensional Phenotypic Characterizations
-63,MIDL 2021,Intensity Correction and Standardization for Electron Microscopy Data
-64,MIDL 2021,Nuc2Vec: Learning Representations of Nuclei in Histopathology Images with Contrastive Loss
-65,MIDL 2021,Semantic similarity metrics for learned image registration
-66,MIDL 2021,Stroke Lesion Outcome Prediction Based on 4D CT Perfusion Data Using Temporal Convolutional Networks
-67,MIDL 2021,An MRF-UNet Product of Experts for Image Segmentation
-68,MIDL 2021,Preface
-69,MIDL 2021,Gifsplanation via Latent Shift: A Simple Autoencoder Approach to Counterfactual Generation for Chest X-rays
-70,CHIL 2021,Practical Challenges in Differentially-Private Federated Survival Analysis of Medical Data
-71,CHIL 2021,Disability prediction in multiple sclerosis using performance outcome measures and demographic data
-72,MIDL 2021,Improving Weakly Supervised Lesion Segmentation using Multi-Task Learning
-73,MIDL 2021,Attention via Scattering Transforms for Segmentation of Small Intravascular Ultrasound Data Sets
-74,CHIL 2021,Lead-agnostic Self-supervised Learning for Local and Global Representations of Electrocardiogram
-75,MIDL 2021,"EPIC-Survival: End-to-end Part Inferred Clustering for Survival Analysis, with Prognostic Stratification Boosting"
-76,CHIL 2021,Data Augmentation for Electrocardiograms
-77,CHIL 2021,MedMCQA: A Large-scale Multi-Subject Multi-Choice Dataset for Medical domain Question Answering
-78,MIDL 2021,Self-Rule to Adapt: Learning Generalized Features from Sparsely-Labeled Data Using Unsupervised Domain Adaptation for Colorectal Cancer Tissue Phenotyping
-79,CHIL 2021,Context-Sensitive Spelling Correction of Clinical Text via Conditional Independence
-80,MIDL 2021,Tailoring automated data augmentation to H&E-stained histopathology
-81,CHIL 2021,Improving the Fairness of Chest X-ray Classifiers
-82,CHIL 2021,Learning Unsupervised Representations for ICU Timeseries
-83,CHIL 2021,Identification of Subgroups With Similar Benefits in Off-Policy Policy Evaluation
-84,CHIL 2021,Uncertainty-Aware Text-to-Program for Question Answering on Structured Electronic Health Records
-85,CHIL 2021,Graph-Text Multi-Modal Pre-training for Medical Representation Learning
-86,CHIL 2021,Semi-Markov Offline Reinforcement Learning for Healthcare
-87,CHIL 2021,ADCB: An Alzheimer’s disease simulator for benchmarking observational estimators of causal effects
-88,CHIL 2021,How to validate Machine Learning Models Prior to Deployment: Silent trial protocol for evaluation of real-time models at ICU
-89,CHIL 2021,Neural Survival Clustering: Non-parametric mixture of neural networks for survival clustering
-90,CHIL 2021,Enriching Unsupervised User Embedding via Medical Concepts
-91,CHIL 2021,Unifying Heterogeneous Electronic Health Records Systems via Text-Based Code Embedding
-92,CHIL 2021,"Conference on Health, Inference, and Learning (CHIL) 2022"
-93,CHIL 2021,Estimating Model Performance on External Samples from Their Limited Statistical Characteristics
-94,CHIL 2021,Multi-Task Adversarial Learning for Treatment Effect Estimation in Basket Trials
-95,CHIL 2021,Real-Time Seizure Detection using EEG: A Comprehensive Comparison of Recent Approaches under a Realistic Setting
-96,ML4H 2021,CEHR-BERT: Incorporating temporal information from structured EHR data to improve prediction tasks
-97,CHIL 2021,Evaluating Domain Generalization for Survival Analysis in Clinical Studies
-98,ML4H 2021,Retrieval-Based Chest X-Ray Report Generation Using a Pre-trained Contrastive Language-Image Model
-99,ML4H 2021,G-Net: a Recurrent Network Approach to G-Computation for Counterfactual Prediction Under a Dynamic Treatment Regime
-100,ML4H 2021,RadBERT-CL: Factually-Aware Contrastive Learning For Radiology Report Classification
-101,ML4H 2021,Longitudinal patient stratification of electronic health records with flexible adjustment for clinical outcomes
-102,ML4H 2021,Deconfounding Temporal Autoencoder: Estimating Treatment Effects over Time Using Noisy Proxies
-103,CHIL 2021,Counterfactually Guided Policy Transfer in Clinical Settings
-104,ML4H 2021,3KG: Contrastive Learning of 12-Lead Electrocardiograms using Physiologically-Inspired Augmentations
-105,ML4H 2021,Domain-guided Self-supervision of EEG Data Improves Downstream Classification Performance and Generalizability
-106,ML4H 2021,Early Exit Ensembles for Uncertainty Quantification
-107,ML4H 2021,Prognosticating Colorectal Cancer Recurrence using an Interpretable Deep Multi-view Network
-108,ML4H 2021,"SmartTriage: A system for personalized patient data capture, documentation generation, and decision support"
-109,CHIL 2021,PhysioMTL: Personalizing Physiological Patterns using Optimal Transport Multi-Task Regression
-110,ML4H 2021,Image Classification with Consistent Supporting Evidence
-111,ML4H 2021,How Transferable are Self-supervised Features in Medical Image Classification Tasks?
-112,ML4H 2021,Towards Explainable End-to-End Prostate Cancer Relapse Prediction from H&E Images Combining Self-Attention Multiple Instance Learning with a Recurrent Neural Network
-113,ML4H 2021,Question Answering for Complex Electronic Health Records Database using Unified Encoder-Decoder Architecture
-114,ML4H 2020,Improved Clinical Abbreviation Expansion via Non-Sense-Based Approaches
-115,ML4H 2021,"MEDCOD: A Medically-Accurate, Emotive, Diverse, and Controllable Dialog System"
-116,ML4H 2020,Parkinsonian Chinese Speech Analysis towards Automatic Classification of Parkinson's Disease
-117,ML4H 2020,Neural Temporal Point Processes For Modelling Electronic Health Records
-118,ML4H 2020,Quantifying Common Support between Multiple Treatment Groups Using a Contrastive-VAE
-119,ML4H 2020,sEMG Gesture Recognition with a Simple Model of Attention
-120,ML4H 2020,Machine Learning for Health (ML4H) 2020: Advancing Healthcare for All
-121,ML4H 2020,Zero-Shot Clinical Acronym Expansion via Latent Meaning Cells
-122,ML4H 2021,Machine Learning for Health (ML4H) 2021
-123,ML4H 2020,A Bayesian Hierarchical Network for Combining Heterogeneous Data Sources in Medical Diagnoses
-124,MIDL 2021,Improved model-based deep learning for quantitative susceptibility mapping
-125,ML4H 2021,Attention Distillation for Detection Transformers: Application to Real-Time Video Object Detection in Ultrasound
-126,ML4H 2021,End-to-End Sequential Sampling and Reconstruction for MRI
-127,ML4H 2020,An Empirical Study of Representation Learning for Reinforcement Learning in Healthcare
+0,CHIL 2021,"Conference on Health, Inference, and Learning (CHIL) 2022"
+1,CHIL 2021,Practical Challenges in Differentially-Private Federated Survival Analysis of Medical Data
+2,CHIL 2021,Disability prediction in multiple sclerosis using performance outcome measures and demographic data
+3,CHIL 2021,Data Augmentation for Electrocardiograms
+4,CHIL 2021,MedMCQA: A Large-scale Multi-Subject Multi-Choice Dataset for Medical domain Question Answering
+5,CHIL 2021,Improving the Fairness of Chest X-ray Classifiers
+6,CHIL 2021,Context-Sensitive Spelling Correction of Clinical Text via Conditional Independence
+7,CHIL 2021,Unifying Heterogeneous Electronic Health Records Systems via Text-Based Code Embedding
+8,CHIL 2021,How to validate Machine Learning Models Prior to Deployment: Silent trial protocol for evaluation of real-time models at ICU
+9,CHIL 2021,Uncertainty-Aware Text-to-Program for Question Answering on Structured Electronic Health Records
+10,CHIL 2021,ADCB: An Alzheimer’s disease simulator for benchmarking observational estimators of causal effects
+11,CHIL 2021,Semi-Markov Offline Reinforcement Learning for Healthcare
+12,CHIL 2021,Lead-agnostic Self-supervised Learning for Local and Global Representations of Electrocardiogram
+13,CHIL 2021,Learning Unsupervised Representations for ICU Timeseries
+14,CHIL 2021,Neural Survival Clustering: Non-parametric mixture of neural networks for survival clustering
+15,CHIL 2021,Multi-Task Adversarial Learning for Treatment Effect Estimation in Basket Trials
+16,CHIL 2021,Evaluating Domain Generalization for Survival Analysis in Clinical Studies
+17,CHIL 2021,Enriching Unsupervised User Embedding via Medical Concepts
+18,CHIL 2021,Estimating Model Performance on External Samples from Their Limited Statistical Characteristics
+19,CHIL 2021,Counterfactually Guided Policy Transfer in Clinical Settings
+20,CHIL 2021,Graph-Text Multi-Modal Pre-training for Medical Representation Learning
+21,CHIL 2021,Real-Time Seizure Detection using EEG: A Comprehensive Comparison of Recent Approaches under a Realistic Setting
+22,CHIL 2021,PhysioMTL: Personalizing Physiological Patterns using Optimal Transport Multi-Task Regression
+23,CHIL 2021,Identification of Subgroups With Similar Benefits in Off-Policy Policy Evaluation
