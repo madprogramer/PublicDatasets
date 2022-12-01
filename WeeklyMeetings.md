@@ -57,8 +57,7 @@
   * The goal of automation now is to make annotation easier, however, anyone repeating or extending my work will also need to do some manual work after.
   * The last step of automation will now produce **excerpts** which contain the references to datasets. It is now the responsibility of the annotator to extract the final details into the dataset they produce.
 
-![Uden navn](https://user-images.githubusercontent.com/3719664/205054032-8bc783c5-5fa7-4d0d-8b7c-49eb98a0f7a9.png)
-
+![Methodology to be updated](https://user-images.githubusercontent.com/3719664/205054239-9da8348c-bdcd-49c2-ba42-6a8e74077962.png)
 
 #### Where do you need help from Veronika?
 
