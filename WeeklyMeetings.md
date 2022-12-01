@@ -1,6 +1,8 @@
 
 # Ahmet's Weekly Meeting Notes
 
+* [1 December 2022](#date-1-december-2022)
+
 * [28 November 2022](#date-28-november-2022)
 
 * [17 November 2022](#date-17-november-2022)
@@ -20,6 +22,44 @@
 * `Todo: Meetings Before?`
 
 * [Template](#template-date-dd-month-yyyy)
+
+### Date: 1 December 2022
+
+#### Who did you help this week?
+
+* Gave some motivation to Catthrine and Trine. 
+
+#### What helped you this week?
+
+* A reminder from my boss at work that sometimes the [Minimum Viable Product](https://www.agilealliance.org/glossary/mvp/) is the best product.
+
+#### What did you achieve?
+
+* I discovered a serious issue in my pipeline
+
+<img width="843" alt="image" src="https://user-images.githubusercontent.com/3719664/205052759-7cbbe530-287b-4377-94a6-655bd30a71c4.png">
+
+* Some articles were not parsing.
+
+<img width="660" alt="image" src="https://user-images.githubusercontent.com/3719664/205053175-902bed4d-abb9-4e2d-901f-cad9b7cd3e97.png">
+
+* It turns out the text was being jumbled.
+
+<img width="747" alt="image" src="https://user-images.githubusercontent.com/3719664/205053083-42bd4326-a5d1-4313-8411-24064a247edd.png">
+
+#### What did you struggle with?
+
+* Avoiding manual annotation.
+
+#### What would you like to work on next week?
+
+* Solution: Incorporate manual annotation into methodology.
+  * The goal of automation now is to make annotation easier, however, anyone repeating or extending my work will also need to do some manual work after.
+  * The last step of automation will now produce excerpts which contain the references to datasets. It is now the responsibility of the annotator to extract the final details into the dataset they produce.
+
+#### Where do you need help from Veronika?
+
+* How can I contact you next week if I need to ask anything?
 
 ### Date: 28 November 2022
 
