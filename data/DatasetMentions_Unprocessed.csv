@@ -52,7 +52,7 @@ which unfortunately is not publicly available. the
 code implementation of this work and all the experiments are made available here: https://github.
 com/addison-weatherhead/trace
 "
-16,CHIL 2021,Learning Unsupervised Representations for ICU Timeseries,URL,https://physionet.org/content/hirid//the,
+16,CHIL 2021,Learning Unsupervised Representations for ICU Timeseries,URL,https://physionet.org/content/hirid/1.1.1/the,
 17,CHIL 2021,Learning Unsupervised Representations for ICU Timeseries,URL,https://github.com/addison-weatherhead/trace,
 18,CHIL 2021,Learning Unsupervised Representations for ICU Timeseries,Footnote, 1,
 19,CHIL 2021,Context-Sensitive Spelling Correction of Clinical Text via Conditional Independence,Inline Citation,"johnson et al., 2016","data and code availability this paper uses the
@@ -171,7 +171,7 @@ content/mimiciii/1.4/.
 "
 47,CHIL 2021,Enriching Unsupervised User Embedding via Medical Concepts,URL,https://github.com/xiaoleihuang/useremb_explainable.1,
 48,CHIL 2021,Enriching Unsupervised User Embedding via Medical Concepts,URL,"https://portal.dbmi.hms.harvard.edu/projects/n2c2-nlp/,",
-49,CHIL 2021,Enriching Unsupervised User Embedding via Medical Concepts,URL,https://physionet.org/content/mimiciii//,
+49,CHIL 2021,Enriching Unsupervised User Embedding via Medical Concepts,URL,https://physionet.org/content/mimiciii/1.4/,
 50,CHIL 2021,Enriching Unsupervised User Embedding via Medical Concepts,Footnote,1,
 51,CHIL 2021,Enriching Unsupervised User Embedding via Medical Concepts,Footnote, 2,
 52,CHIL 2021,Evaluating Domain Generalization for Survival Analysis in Clinical Studies,URL,https://clinicaltrials.gov/,"data and code availability our study includes
