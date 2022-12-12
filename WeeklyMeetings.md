@@ -1,6 +1,8 @@
 
 # Ahmet's Weekly Meeting Notes
 
+* [12 December 2022](#date-12-december-2022)
+
 * [1 December 2022](#date-1-december-2022)
 
 * [28 November 2022](#date-28-november-2022)
@@ -22,6 +24,37 @@
 * `Todo: Meetings Before?`
 
 * [Template](#template-date-dd-month-yyyy)
+
+### Date: 12 December 2022
+
+#### Who did you help this week?
+
+* n/a
+
+#### What helped you this week?
+
+* [This talk by Michael Garris on the history of MNIST](https://www.youtube.com/watch?v=oKzNUGz21JM) was useful for contextualising the history of public datasets in my background.
+
+#### What did you achieve?
+
+* Text extractor now very functional with some smart regexes.
+* And yet, annotation is still needed.
+* <img width="1181" alt="image" src="https://user-images.githubusercontent.com/3719664/206939235-a62b3905-a9fe-4ffd-b0be-09b511f583e2.png">
+
+* Will need to re-run experiments...
+
+#### What did you struggle with?
+
+* Writing my report, I have no idea how I will meet the expected [15 pages](https://itustudent.itu.dk/study-administration/project-work/workload-and-project-size).
+
+#### What would you like to work on next week?
+
+n/a
+
+#### Where do you need help from Veronika?
+
+* My deadline is in 3 days, am I doomed to a re-exam?
+  * I have ANOTHER concurrent project due on the same day. So it looks like I might need to hold off on one of them.
 
 ### Date: 1 December 2022
 
