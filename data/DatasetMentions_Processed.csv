@@ -48,7 +48,7 @@ which unfortunately is not publicly available. the
 code implementation of this work and all the experiments are made available here: https://github.
 com/addison-weatherhead/trace"
 15;CHIL 2021;Learning Unsupervised Representations for ICU Timeseries;HiRID;Footnote;https://physionet.org/content/hirid/1.1.1/the;Open;
-16;CHIL 2021;Learning Unsupervised Representations for ICU Timeseries;[Paper Dataset];URL;https://github.com/addison-weatherhead/trace;WIP;[Paper Dataset] indicates a paper’s own dataset and/or code.
+16;CHIL 2021;Learning Unsupervised Representations for ICU Timeseries;[Paper Dataset];URL;https://github.com/addison-weatherhead/trace;Open;[Paper Dataset] indicates a paper’s own dataset and/or code.
 17;CHIL 2021;Context-Sensitive Spelling Correction of Clinical Text via Conditional Independence;MIMIC-III;Inline Citation;johnson et al., 2016;Open;"data and code availability this paper uses the
 mimic-iii dataset (johnson et al., 2016), which is
 available on the physionet repository (moody et al.,
@@ -62,7 +62,7 @@ com/dalgu90/cim-misspelling."
 18;CHIL 2021;Context-Sensitive Spelling Correction of Clinical Text via Conditional Independence;[Repository] PhysioNet;Inline Citation;moody et al., 2000;Open;
 19;CHIL 2021;Context-Sensitive Spelling Correction of Clinical Text via Conditional Independence;MIMIC-III spelling correction;Inline Citation;fivez et al., 2017;Open;
 20;CHIL 2021;Context-Sensitive Spelling Correction of Clinical Text via Conditional Independence;CSpell;Inline Citation;lu et al., 2019;Open;
-21;CHIL 2021;Context-Sensitive Spelling Correction of Clinical Text via Conditional Independence;WIP;URL;https://github.com/dalgu90/cim-misspelling;Open;
+21;CHIL 2021;Context-Sensitive Spelling Correction of Clinical Text via Conditional Independence;cim-misspelling;URL;https://github.com/dalgu90/cim-misspelling;Open;
 22;CHIL 2021;Unifying Heterogeneous Electronic Health Records Systems via Text-Based Code Embedding;MIMIC-III;Inline Citation;johnson et al., 2016;Open;"data and code availability this paper uses
 mimic-iii and eicu, which are publicly available on
 the physionet repository (johnson et al., 2016; pollard et al., 2018). more details about datasets can
@@ -73,7 +73,7 @@ available is available on github.1
 © 2022 k. hur, j. lee, j. oh, w. price, y. kim & e. choi."
 23;CHIL 2021;Unifying Heterogeneous Electronic Health Records Systems via Text-Based Code Embedding;EICU;Inline Citation;pollard et al., 2018;Open;
 24;CHIL 2021;Unifying Heterogeneous Electronic Health Records Systems via Text-Based Code Embedding;[Paper Dataset];Footnote;https://github.com/hoon9405/descemb;Open;[Paper Dataset] indicates a paper’s own dataset and/or code.
-25;CHIL 2021;Uncertainty-Aware Text-to-Program for Question Answering on Structured Electronic Health Records;[Paper Dataset];Footnote;https://github.com/cyc1am3n/text2program-for-ehr ;Open;"data and code availability our source code
+25;CHIL 2021;Uncertainty-Aware Text-to-Program for Question Answering on Structured Electronic Health Records;[Paper Dataset];Footnote;https://github.com/cyc1am3n/text2program-for-ehr;Open;"data and code availability our source code
 and dataset are available on the official repository1."
 26;CHIL 2021;ADCB: An Alzheimer’s disease simulator for benchmarking observational estimators of causal effects;ADNI;URL;http://adni.loni.usc.edu;Open;"data and code availability we make use
 of publicly available longitudinal data, of both
