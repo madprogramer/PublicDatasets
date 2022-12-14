@@ -1,2 +1,5 @@
 scrapy
 pdfminer.six
+numpy
+pandas
+seaborn
