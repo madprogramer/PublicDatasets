@@ -7,7 +7,7 @@ This project allows you to build datasets of dataset mentions from papers publis
 
 Background:
 
-As part of my research project, I analyzed dataset mentions in CHIL 2022. You can refer to my report_logs or see [the presentation](
+As part of my research project, I analyzed dataset mentions in [CHIL 2022](https://www.chilconference.org/). You can refer to my report_logs or see [the presentation](
 https://github.com/madprogramer/PublicDatasets/blob/main/report_logs/Towards%20Understanding%20The%20Hidden%20Popularity%20of%20Machine%20Learning%20Datasets_Slides.pptx) for a tl;dr.
 
 Code:  
