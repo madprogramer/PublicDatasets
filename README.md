@@ -5,7 +5,13 @@ Install with `pip3  install -r requirements.txt`.
 
 This project allows you to build datasets of dataset mentions from papers published in https://proceedings.mlr.press/.
 
-Code 
+Background:
+
+As part of my research project, I analyzed dataset mentions in CHIL 2022. You can refer to my report_logs or see [the presentation](
+https://github.com/madprogramer/PublicDatasets/blob/main/report_logs/Towards%20Understanding%20The%20Hidden%20Popularity%20of%20Machine%20Learning%20Datasets_Slides.pptx) for a tl;dr.
+
+Code:  
+
 * ArticleOrganizer.ipynb : Runs first, selects target venues and downloads their contents locally. Generates `ResearchPapers.csv`.
 * ArticleAnalayzer.ipynb : Runs second, requires some configuration to know where in the text to look for research paper mentions. Generates `DatasetMentions_Unprocessed.csv`, a table which may be further annotated to include `Dataset Identifier` and `Access`.
 * ArticleVisualizer.ipynb : Run after cleaning and annotating your `unprocessed` file to generate visualizations.
